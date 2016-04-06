@@ -3466,7 +3466,7 @@
 			bottom: 0;
 			color: inherit;
 			font-size: 0.8em;
-			height: 8.5em;
+			height: 6em;
 			left: 50%;
 			letter-spacing: 0.225em;
 			margin-left: -8.5em;
@@ -3486,10 +3486,10 @@
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
-				bottom: 4em;
+				bottom: 2em;
 				content: '';
 				display: block;
-				height: 1.5em;
+				height: 1em;
 				left: 50%;
 				margin: 0 0 0 -0.75em;
 				position: absolute;
